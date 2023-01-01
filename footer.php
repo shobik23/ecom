@@ -4,12 +4,12 @@
                 <div class="container">
                     <div class="row">
                         <!-- Start Single Footer Widget -->
-                        <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="col-md-5 col-sm-6 col-xs-12">
                             <div class="footer">
                                 <h2 class="title__line--2">ABOUT US</h2>
                                 <div class="ft__details">
-                                    <p>We are online vegetable & fruits store. We deliver fresh vegetables and fruits. You can buy our product, add to cart fill your address for delivery. We aim to change the traditionally way of buying vegetables and fruits.</p>
-          </p></p>
+                                    <p>Buy a laptop in Nepal can be a tough job. Due to the small market, computer stores always bring just a few models of laptops and all with limited stock. So chances of finding a laptop that fits your requirements are feeble.  And if you further look at the laptop price in Nepal, you will be shocked to see it being exorbitantly high. Limited availability and the high price of the laptops has definitely created an inconvenience amongst the customers.</p>        
+                            </p></p>
                                     <div class="ft__social__link">
                                         <ul class="social__link">
                                             <li><a href="#"><i class="icon-social-twitter icons"></i></a></li>
@@ -27,14 +27,15 @@
                         </div>
                         <!-- End Single Footer Widget -->
                         <!-- Start Single Footer Widget -->
-                        <div class="col-md-3 col-sm-6 col-xs-12 xmt-40">
+                        <div class="col-md-2 col-sm-6 col-xs-12 xmt-40">
                             <div class="footer">
                                 <h2 class="title__line--2">Menu</h2>
                                 <div class="ft__inner">
                                     <ul class="ft__list">
                                         <li><a href="index.php">Home</a></li>
-                                        <li><a href="categories.php?id=2">Fruits</a></li>
-                                        <li><a href="categories.php?id=1">Vegetables</a></li>
+                                        <li><a href="categories.php?id=2">Dell</a></li>
+                                        <li><a href="categories.php?id=1">Acer</a></li>
+                                        <li><a href="categories.php?id=3">Lenovo</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -56,7 +57,7 @@
                         </div>
                         <!-- End Single Footer Widget -->
                         <!-- Start Single Footer Widget -->
-                        <div class="col-md-3 col-sm-6 col-xs-12 xmt-40 smt-40">
+                        <div class="col-md-2 col-sm-6 col-xs-12 xmt-40 smt-40">
                             <div class="footer">
                                 <h2 class="title__line--2">Our service</h2>
                                 <div class="ft__inner">

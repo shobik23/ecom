@@ -101,7 +101,7 @@ if($cat_id>0){
 												</div>
 												
 												<div class="fr__product__inner">
-													<h4><a href="product-details.html"><?php echo $list['name']?></a></h4>
+													<h4 style="width:auto; height:80px"><a href="product-details.html"><?php echo $list['name']?></a></h4>
 													<ul class="fr__pro__prize">
 														<li>Rs <?php echo $list['price']?></li>
 													</ul>
